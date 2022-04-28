@@ -19,10 +19,10 @@ _Techs that I've used at least once_
 ![Github](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub)
 
 ### 🌱 I’m currently learning ...🌱
-| Subject | link | Remark |
-|---------|------|--------|
-|Daily CS Study of java web developers|[notion](https://healtheefart.notion.site/CS-3ba4a125fdea426eabf73c12b7770b60)|-ing|
-|Daily Algorithm Studt|[github](https://github.com/healtheefart/Daily-Algorithm)|-ing|
+| Subject | Remark |
+|---------|--------|
+|[Daily CS Study of java web developers](https://healtheefart.notion.site/CS-3ba4a125fdea426eabf73c12b7770b60)|-ing|
+|[Daily Algorithm Study](https://github.com/healtheefart/Daily-Algorithm)|-ing|
 <!--
 **healtheefart/healtheefart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
